@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AlphaAccount/static/css/main.dc4d6ff2.css",
+    "main.js": "/AlphaAccount/static/js/main.69c82714.js",
+    "static/js/453.02b6ed6f.chunk.js": "/AlphaAccount/static/js/453.02b6ed6f.chunk.js",
+    "static/media/SKimage.jpg": "/AlphaAccount/static/media/SKimage.09eb3e8cd3d09bd04022.jpg",
+    "index.html": "/AlphaAccount/index.html",
+    "main.dc4d6ff2.css.map": "/AlphaAccount/static/css/main.dc4d6ff2.css.map",
+    "main.69c82714.js.map": "/AlphaAccount/static/js/main.69c82714.js.map",
+    "453.02b6ed6f.chunk.js.map": "/AlphaAccount/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.69c82714.js"
+  ]
+}
